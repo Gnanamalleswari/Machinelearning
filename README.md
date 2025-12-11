@@ -133,5 +133,6 @@ The model is built using a **Multilayer Perceptron (MLP)** with the following ar
 ## ⚙️ **How to Run the Project**  
 ### 1. **Clone the Repository**  
 ```bash
-git clone https://github.com/Gnanamalleswari/diabetes-mlp-regressor.git
+git clone https://github.com/Gnanamalleswari/Machinelearning
+
 
